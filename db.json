@@ -1,8 +1,9 @@
 {
 
-"user":{
+"user":[
 {"userName":"Harry", "favouriteMovie":"Harry Potter and the deadly hallows part1"},
 {"userName":"Ron", "favouriteMovie":"Harry Potter and the deadly hallows part2"}
-}
+]
+
 
 }
